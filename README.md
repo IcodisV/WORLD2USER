@@ -1,1 +1,1 @@
-A project to translate user frame coordinates of a FANUC robot to world coordinates. 
+A project to translate world coordinates to user frame coordinates of a FANUC robot to. 
